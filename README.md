@@ -23,6 +23,7 @@ Estoy abierto a colaboraciones y me encantaría aprender de otros. Puedes contac
   <img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png" alt="Java" width="64px" height="64px">
   <img src="https://img.icons8.com/?size=100&id=40669&format=png" alt="C/C++" width="64px" height="64px">
   <img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png" alt="Python" width="64px" height="64px">
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Javascript" width="64px" height="64px">
   <img src="https://img.icons8.com/?size=100&id=20906&format=png" alt="Git" width="64px" height="64px">
   <img src="https://img.icons8.com/?size=100&id=22813&format=png" alt="Docker" width="64px" height="64px">
   <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind" width="64px" height="64px">
