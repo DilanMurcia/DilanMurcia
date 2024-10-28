@@ -2,7 +2,7 @@
 <!--  -->
 <p align="center">
   <a href="https://github.com/DilanMurcia">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%231E90FF&size=35&center=true&vCenter=true&width=800&height=150&lines=Software+Developer;Web+Developer;Data+Analyst;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%231E90FF&size=35&center=true&vCenter=true&width=800&height=150&lines=Software+Developer;Web+Developer;Data+Analyst+Student;">
   </a>
 </p>
 <!-- PROFILE VIEWS -->
