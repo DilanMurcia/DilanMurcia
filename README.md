@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Dilan Albert Murcia Parra</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Dilan Murcia</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -13,13 +13,30 @@ I am passionate about programming and technology, with experience in software de
 
 ### 🛠️ Technical Skills
 
-- **Programming Languages**: C/C++, Java, Python, JavaScript
-- **Web Development**: HTML, CSS, Node.js
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Methodologies**:
-  - Scrum
-  - RUP (Rational Unified Process)
-- **Tools**: Git, Docker, OCI (Oracle Cloud Infrastructure)
+- **Programming Languages**  
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) 
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+
+- **Web Development**  
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+- **Databases**  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
+
+- **Methodologies**  
+  ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white) 
+  ![RUP](https://img.shields.io/badge/-RUP-000000?style=flat&logo=ibm&logoColor=white) 
+
+- **Tools**  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+  ![OCI](https://img.shields.io/badge/-OCI-F80000?style=flat&logo=oracle&logoColor=white)
 
 ### 💬 Let's Connect
 
@@ -27,17 +44,44 @@ I am open to collaborations and would love to learn from others. You can contact
 
 - [WhatsApp](https://wa.me/+573216903828)
 - [Email](https://mail.google.com/mail/?view=cm&fs=1&to=dilanalbertmurcia@gmail.com)
-### Technologies
-<div align="left" style="display: flex; gap: 15px;">
-  <img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png" alt="Java" width="64px" height="64px">
-  <img src="https://img.icons8.com/?size=100&id=40669&format=png" alt="C/C++" width="64px" height="64px">
-  <img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png" alt="Python" width="64px" height="64px">
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Javascript" width="64px" height="64px">
-  <img src="https://img.icons8.com/?size=100&id=20906&format=png" alt="Git" width="64px" height="64px">
-  <img src="https://img.icons8.com/?size=100&id=22813&format=png" alt="Docker" width="64px" height="64px">
-  <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind" width="64px" height="64px">
-  <img src="https://img.icons8.com/?size=100&id=dzfo6UeXW9h7&format=png&color=000000" alt="Vue" width="64px" height="64px">
-</div>
+### 🛠️ Technical Skills
+
+- **Programming Languages**  
+  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+- **Web Development**  
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)
+
+- **Databases & Tools**  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white)
+
+- **Development Tools / IDEs**  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+  ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
+  ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache&logoColor=white)
+
+- **Methodologies**  
+  ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
+  ![RUP](https://img.shields.io/badge/-RUP-000000?style=flat&logo=ibm&logoColor=white)
+
+- **Containers & Cloud**  
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![OCI](https://img.shields.io/badge/-OCI-F80000?style=flat&logo=oracle&logoColor=white)
+
+
 
 <!-- GITHUB TROPHIES 
 <p align="left"> 
