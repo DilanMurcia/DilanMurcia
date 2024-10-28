@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Dilan Murcia</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/DilanMurcia">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%231E90FF&size=35&center=true&vCenter=true&width=800&height=150&lines=Software+Developer;Web+Developer;Data+Analyst;">
   </a>
 </p>
@@ -9,7 +9,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=DilanMurcia&label=Profile%20views&color=0e75b6&style=flat" alt="DilanMurcia" /> 
 </p>
- am a passionate software developer with a strong interest in programming and technology. Currently, I am focused on expanding my skills in web development, utilizing frameworks like React and tools like Tailwind CSS to create user-friendly applications. My dedication to continuous learning drives me to explore new technologies, and I am eager to collaborate on projects that challenge me and help me grow professionally.
+ I am a passionate software developer with a strong interest in programming and technology. Currently, I am focused on expanding my skills in web development, utilizing frameworks like React and tools like Tailwind CSS to create user-friendly applications. My dedication to continuous learning drives me to explore new technologies, and I am eager to collaborate on projects that challenge me and help me grow professionally.
 
 ### 🛠️ Technical Skills
 
@@ -70,6 +70,6 @@ I am open to collaborations and would love to learn from others. You can contact
   <a href="https://github.com/DilanMurcia">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DilanMurcia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DilanMurcia&layout=compact&langs_count=8&theme=algolia"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DilanMurcia&theme=algolia&hide_border=true" />
+<!--     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DilanMurcia&theme=algolia&hide_border=true" /> -->
   </a>
 </p>
