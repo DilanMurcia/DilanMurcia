@@ -9,41 +9,8 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=DilanMurcia&label=Profile%20views&color=0e75b6&style=flat" alt="DilanMurcia" /> 
 </p>
-I am passionate about programming and technology, with experience in software development. 
+ am a passionate software developer with a strong interest in programming and technology. Currently, I am focused on expanding my skills in web development, utilizing frameworks like React and tools like Tailwind CSS to create user-friendly applications. My dedication to continuous learning drives me to explore new technologies, and I am eager to collaborate on projects that challenge me and help me grow professionally.
 
-### 🛠️ Technical Skills
-
-- **Programming Languages**  
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) 
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-
-- **Web Development**  
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-- **Databases**  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
-
-- **Methodologies**  
-  ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white) 
-  ![RUP](https://img.shields.io/badge/-RUP-000000?style=flat&logo=ibm&logoColor=white) 
-
-- **Tools**  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-  ![OCI](https://img.shields.io/badge/-OCI-F80000?style=flat&logo=oracle&logoColor=white)
-
-### 💬 Let's Connect
-
-I am open to collaborations and would love to learn from others. You can contact me through:
-
-- [WhatsApp](https://wa.me/+573216903828)
-- [Email](https://mail.google.com/mail/?view=cm&fs=1&to=dilanalbertmurcia@gmail.com)
 ### 🛠️ Technical Skills
 
 - **Programming Languages**  
@@ -81,6 +48,13 @@ I am open to collaborations and would love to learn from others. You can contact
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![OCI](https://img.shields.io/badge/-OCI-F80000?style=flat&logo=oracle&logoColor=white)
 
+### 💬 Let's Connect
+
+I am open to collaborations and would love to learn from others. You can contact me through:
+
+- [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+573216903828)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dilanalbertmurcia@gmail.com)
+- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/Dilan_Murcia_)
 
 
 <!-- GITHUB TROPHIES 
