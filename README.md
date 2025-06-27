@@ -6,8 +6,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="200" alt="Pro Coder GIF" />
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500" alt="Pro Coder GIF" />
 </p>
 <!-- PROFILE VIEWS -->
 <p align="center"> 
