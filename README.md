@@ -1,12 +1,12 @@
 <h1 align="center"><b>Hi, I'm Dilan Murcia</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/DilanMurcia">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%231E90FF&size=35&center=true&vCenter=true&width=800&height=150&lines=Software+Developer;Web+Developer;Data+Analyst+Student;">
   </a>
 </p>
 
-  <p align="center" valign="middle">
+  <p align="left" valign="middle">
     <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="300" alt="Coder GIF 1" />
   </p>
 
