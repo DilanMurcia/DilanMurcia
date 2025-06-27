@@ -9,8 +9,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=DilanMurcia&label=Profile%20views&color=0e75b6&style=flat" alt="DilanMurcia" /> 
 </p>
- I am a passionate software developer with a strong interest in programming and technology. Currently, I am focused on expanding my skills in web development, utilizing frameworks like React and tools like Tailwind CSS to create user-friendly applications. My dedication to continuous learning drives me to explore new technologies, and I am eager to collaborate on projects that challenge me and help me grow professionally.
-
 ### 🛠️ Technical Skills
 
 - **Programming Languages**  
