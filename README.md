@@ -6,14 +6,13 @@
   </a>
 </p>
 <!-- PROFILE VIEWS -->
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=DilanMurcia&label=Profile%20views&color=0e75b6&style=flat" alt="DilanMurcia" /> 
 </p>
 <p align="center">
-  <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Dilan%20Murcia%20👨‍💻&width=800&height=200"/>
-  </a>
+  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="200" alt="Pro Coder GIF" />
 </p>
+
 
 
 - **Programming Languages**  
