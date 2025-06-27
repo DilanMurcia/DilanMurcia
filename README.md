@@ -7,7 +7,7 @@
 </p>
 <table width="100%">
 <tr>
-  <td align="left" valign="middle">
+  <td align="center" valign="middle">
     <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="300" alt="Coder GIF 1" />
   </td>
 </tr>
