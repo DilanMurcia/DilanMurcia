@@ -5,14 +5,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%231E90FF&size=35&center=true&vCenter=true&width=800&height=150&lines=Software+Developer;Web+Developer;Data+Analyst+Student;">
   </a>
 </p>
+
+<p align="center">
+  <img src="[https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)" width="200" alt="Pro Coder GIF" />
+</p>
 <!-- PROFILE VIEWS -->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=DilanMurcia&label=Profile%20views&color=0e75b6&style=flat" alt="DilanMurcia" /> 
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="200" alt="Pro Coder GIF" />
-</p>
-
 
 
 - **Programming Languages**  
