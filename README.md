@@ -9,7 +9,12 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=DilanMurcia&label=Profile%20views&color=0e75b6&style=flat" alt="DilanMurcia" /> 
 </p>
-### 🛠️ Technical Skills
+<p align="center">
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Dilan%20Murcia%20👨‍💻&width=800&height=200"/>
+  </a>
+</p>
+
 
 - **Programming Languages**  
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
