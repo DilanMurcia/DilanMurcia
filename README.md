@@ -5,14 +5,19 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%231E90FF&size=35&center=true&vCenter=true&width=800&height=150&lines=Software+Developer;Web+Developer;Data+Analyst+Student;">
   </a>
 </p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://komarev.com/ghpvc/?username=DilanMurcia&label=Profile%20views&color=0e75b6&style=flat" alt="DilanMurcia" />
+    </td>
+    <td align="right">
+      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500" alt="Pro Coder GIF" />
+    </td>
+  </tr>
+</table>
 
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500" alt="Pro Coder GIF" />
-</p>
-<!-- PROFILE VIEWS -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=DilanMurcia&label=Profile%20views&color=0e75b6&style=flat" alt="DilanMurcia" /> 
-</p>
+
+
 
 
 - **Programming Languages**  
