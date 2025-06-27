@@ -10,9 +10,6 @@
   <td align="left" valign="middle">
     <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="300" alt="Coder GIF 1" />
   </td>
-  <td align="right" valign="middle">
-    <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" height="300" alt="Coder GIF 2" />
-  </td>
 </tr>
 
 
