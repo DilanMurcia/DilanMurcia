@@ -8,7 +8,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <img src="https://komarev.com/ghpvc/?username=DilanMurcia&label=Profile%20views&color=0e75b6&style=flat" alt="DilanMurcia" />
+      <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" alt="Pro Coder GIF" />
     </td>
     <td align="right">
       <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500" alt="Pro Coder GIF" />
